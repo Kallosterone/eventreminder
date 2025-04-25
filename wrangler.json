@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "eventreminder",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "77417702-7c80-4bc1-85fa-60dc64d063e1",
+      "database_name": "tribble_mailboxdb"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
